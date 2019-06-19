@@ -2,7 +2,7 @@ title: Newtron Status
 buildFuture: true
 defaultContentLanguage: en
 languageCode: en
-baseURL: 'https://is.newtron.online'
+baseURL: /
 params:
   alwaysKeepBrandColor: true
   autoRefresh: true
