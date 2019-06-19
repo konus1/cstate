@@ -25,10 +25,10 @@ params:
   systems:
     - description: nMarkets PROD Environment1
       name: PROD
-      partial: custom/prod
+      partial: ''
     - description: iAuction
       name: SOFIA
-      partial: custom/sofia
+      partial: ''
   useLargeHeaderDesign: false
   useLogo: true
 theme: cstate
