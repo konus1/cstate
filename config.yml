@@ -28,7 +28,7 @@ params:
         This is the service responsible for serving images, audio, and video. It
         is reliant on our CDN.
       name: Media Proxy
-  useLargeHeaderDesign: false
+  useLargeHeaderDesign: true
   useLogo: true
 theme: cstate
 preserveTaxonomyNames: true
