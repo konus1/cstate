@@ -23,7 +23,7 @@ params:
   ok: 008000
   shortDateFormat: '15:04 — 02.01.2006'
   systems:
-    - description: nMarkets PROD Environment
+    - description: nMarkets PROD Environment1
       name: PROD
       partial: custom/prod
     - description: iAuction
