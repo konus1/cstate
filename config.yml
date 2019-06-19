@@ -25,7 +25,7 @@ params:
   systems:
     - description: nMarkets PROD Environment1
       name: PROD
-      partial: custom/prod
+      partial: ''
     - description: iAuction
       name: SOFIA
       partial: ''
