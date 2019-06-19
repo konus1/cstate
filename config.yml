@@ -18,7 +18,7 @@ params:
   logo: /logo.png
   notice: 24478f
   ok: 008000
-  shortDateFormat: '15:04 — 02.01.2019'
+  shortDateFormat: '15:04 — 02.01.2006'
   systems:
     - name: Gateway
     - description: The guts of the application.
