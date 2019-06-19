@@ -7,6 +7,9 @@ params:
   alwaysKeepBrandColor: true
   autoRefresh: true
   brand: e6e6e6
+  customTabs:
+    - link: 'https://www.newtron.de/impressum/'
+      name: Impressum
   dateFormat: 'Monday, 02.01.2006 15:04'
   description: >-
     We continuously monitor the status of our services and if there are any
