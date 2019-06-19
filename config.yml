@@ -29,10 +29,6 @@ params:
     - description: iAuction
       name: SOFIA
       partial: custom/sofia
-    - description: >-
-        This is the service responsible for serving images, audio, and video. It
-        is reliant on our CDN.
-      name: Media Proxy
   useLargeHeaderDesign: false
   useLogo: true
 theme: cstate
