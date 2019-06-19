@@ -6,7 +6,7 @@ baseURL: 'https://is.newtron.online'
 params:
   alwaysKeepBrandColor: true
   autoRefresh: true
-  brand: f2f2f2
+  brand: e6e6e6
   dateFormat: 'Monday, 02.01.2006 15:04'
   description: >-
     We continuously monitor the status of our services and if there are any
