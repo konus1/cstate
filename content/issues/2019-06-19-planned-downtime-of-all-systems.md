@@ -12,3 +12,5 @@ affected:
 severity: notice
 ---
 _Announcement_ - We are doing some planned maintenance work on our core system starting from Saterday **2019/06/22 8:00 PM to 12:00 PM** (CEST). All services are not available at this time. {{< track "2018-06-13 15:54:00" >}}
+
+_Information_ - If you are able to login anyway - Don't do it. The website could shut down without notice!
