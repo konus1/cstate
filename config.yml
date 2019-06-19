@@ -1,4 +1,4 @@
-title: Eggsample Status
+title: Newtron Status
 buildFuture: true
 defaultContentLanguage: en
 languageCode: en
@@ -15,12 +15,13 @@ params:
   down: e60000
   googleAnalytics: UA-00000000-1
   incidentPostsPerPage: 10
-  logo: /logo.png
+  logo: /img/newtron_logo_rgb.png
   notice: 24478f
   ok: 008000
   shortDateFormat: '15:04 — 02.01.2006'
   systems:
-    - name: Gateway
+    - description: nMarkets PROD Environment
+      name: PROD
     - description: The guts of the application.
       name: API
     - description: >-
