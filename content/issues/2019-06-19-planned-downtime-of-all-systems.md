@@ -1,7 +1,7 @@
 ---
 section: issue
 title: Planned downtime of all systems
-date: 2019-06-22T18:00:59.235Z
+date: 2019-06-19T00:00:00.000Z
 resolved: false
 resolvedWhen: 2019-06-22T21:59:00.000Z
 affected:
