@@ -7,7 +7,7 @@ params:
   alwaysKeepBrandColor: true
   autoRefresh: true
   brand: 0a0c0f
-  dateFormat: 'January 2, 2006 at 3:04 PM'
+  dateFormat: 'Mon, 02 Jan 2006 15:04 MST'
   description: >-
     We continuously monitor the status of our services and if there are any
     interruptions, a note will be posted here.
@@ -18,7 +18,7 @@ params:
   logo: /logo.png
   notice: 24478f
   ok: 008000
-  shortDateFormat: '15:04 — Jan 2'
+  shortDateFormat: '15:04 — 02.01.2019'
   systems:
     - name: Gateway
     - description: The guts of the application.
